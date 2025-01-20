@@ -1,4 +1,4 @@
-# Auto Token Initverse Transaction Bot
+# Auto Token TEA PROKONTOL Transaction Bot
 
 This bot automatically performs token transactions between addresses stored in the `.env` file. Transactions are carried out randomly with the number of tokens specified by the user and can use a proxy for privacy. If no proxy is available, the bot will still run without it.
 
@@ -16,7 +16,7 @@ This bot automatically performs token transactions between addresses stored in t
 
 ## Installation
 
-1. **Clone the repository** or **Copy the code** and save it in a Python file named `gnit.py`.
+1. **Clone the repository** or **Copy the code** and save it in a Python file named `tea.py`.
 
 2. **Create Configuration Files**:
 
@@ -44,11 +44,9 @@ This bot automatically performs token transactions between addresses stored in t
 
 1. **Run the Bot**: Use the following command to run the bot:
    ```bash
-   python gnit.py
+   python tea.py
 
 ## Join Telegram Channel
 [Telegram Channel](https://t.me/dasarpemulung)
 
-## Tutorial Video
-
-[Tutorial With Video](https://youtu.be/i-87X0Zu_d8?si=dRZYh7zsO_1Eklot)
+## Always Dyor
