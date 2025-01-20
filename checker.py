@@ -19,8 +19,8 @@ CURRENCY_SYMBOL = "$TEA"
 # Connect to Blockchain
 web3 = Web3(Web3.HTTPProvider(RPC_URL))
 if not web3.is_connected():
-    console.print("[bold red]? Failed to connect to Haust Testnet![/bold red]")
-    raise ConnectionError("Failed to connect to Haust Testnet!")
+    console.print("[bold red]? Failed to connect to TEA PROKONTOL Testnet![/bold red]")
+    raise ConnectionError("Failed to connect to TEA Testnet!")
 
 console.print(f"[bold green]? Connected to TEA Prokontol Testnet ({RPC_URL})[/bold green]")
 
