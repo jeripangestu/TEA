@@ -34,7 +34,7 @@ if not PROXIES:
 MIN_AMOUNT = float(input("Enter minimum transfer amount: ").strip())
 MAX_AMOUNT = float(input("Enter maximum transfer amount: ").strip())
 
-# Genesis Initverse Testnet Configuration
+# TEA Testnet Configuration
 RPC_URL = "https://assam-rpc.tea.xyz"
 CHAIN_ID = 93384
 CURRENCY_SYMBOL = "$TEA"
